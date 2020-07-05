@@ -1,0 +1,7 @@
+http://127.0.0.1:8000/ >>>>> class API views
+
+http://127.0.0.1:8000/GenericApi >>>>> Generic API views
+
+http://127.0.0.1:8000/GViewsets >>>>>> GenericViewSets API Views
+
+http://127.0.0.1:8000/MViewsets >>>>>> ModelViewSets API Views
